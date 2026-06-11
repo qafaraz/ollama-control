@@ -60,4 +60,4 @@ By default, the update script pulls the `llama3` model. If you use a different m
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open-source and licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it.
